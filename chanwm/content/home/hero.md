@@ -42,6 +42,7 @@ hero_media = "chan-photo.jpg"
 #  label = "Contact me"
 
 +++
+# **Hello!** #
 ## My name is **Chan** and I am a **software engineer** at **BenevolentAI**
 
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
