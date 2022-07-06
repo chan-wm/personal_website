@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-section.jpg"
+hero_media = "chan-photo.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -34,7 +34,7 @@ hero_media = "hero-section.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "/authors/admin"
+  url = "#about"
   label = "Know more"
   
 [btn_alt]

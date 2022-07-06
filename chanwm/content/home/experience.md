@@ -29,6 +29,19 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Research Assistant"
+  company = "Biological Control Systems Lab, Imperial College London"
+  company_url = "https://rtanaka.bg-research.cc.ic.ac.uk/"
+  location = "London, UK"
+  date_start = "2021-10-01"
+  date_end = "2022-06-01"
+  description = """
+  * Built a pipeline for training and evaluating various semantic segmentation models such as FCN, U-Net, SegNet and PSPNet
+  * Applied transfer learning using pre-trained models such as VGG16 and ResNet50
+  * Applied data augmentation techniques to improve model's performance and robustness
+  """
+
+[[experience]]
   title = "Site Reliability Engineer Intern"
   company = "BenevolentAI"
   company_url = "https://www.benevolent.com/"
