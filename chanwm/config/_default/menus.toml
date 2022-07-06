@@ -5,8 +5,13 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#hero"
   weight = 10
+
+[[main]]
+  name = "About Me"
+  url = "#about"
+  weight = 15
 
 # [[main]]
 #   name = "Posts"
@@ -19,9 +24,14 @@
   weight = 20
 
 [[main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 30
+
+[[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 40
 
 # [[main]]
 #   name = "Publications"
@@ -33,10 +43,10 @@
 #   url = "courses/"
 #   weight = 50
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+# [[main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 60
 
 # [[main]]
 #   name = "dropdown"
