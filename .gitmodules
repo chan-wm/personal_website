@@ -1,0 +1,4 @@
+[submodule "chanwm/public"]
+	path = chanwm/public
+	url = https://github.com/chan-wm/chan-wm.github.io.git
+	branch = main

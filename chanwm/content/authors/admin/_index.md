@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Chanasak Mahankarat
-avatar_image: "user-full.png"
+avatar_image: "chan-photo.jpg"
 # Username (this should match the folder name)
 authors:
 - admin
@@ -22,15 +22,15 @@ organizations:
   url: "https://www.benevolent.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Should the user's education and interests be displayed?
 display_education: true
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Software Engineering
+- AI in Healthcare
+- Travel
 
 education:
   courses:
@@ -51,6 +51,9 @@ social:
   link: https://github.com/chan-wm
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/winn-chanasak/  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
