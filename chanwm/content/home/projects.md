@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
+subtitle = "Some of the projects I have worked on"
 
 [content]
   # Page type to display. E.g. project.
@@ -30,16 +30,8 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
     tag = "Deep Learning"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
-  
-  [[content.filter_button]]
-    name = "Human"
-    tag = "human"
-  
-  [[content.filter_button]]
-    name = "Robotics"
-    tag = "robotics"
+    name = "Computer Vision"
+    tag = "Computer Vision"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

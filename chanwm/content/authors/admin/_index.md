@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Chanasak Mahankarat is a software engineer at BenevolentAI, working on technology that uses machine learning and AI for drug discovery. I am passionate about technology and biology and the intersection between the two.
+Chanasak Mahankarat is a software engineer at BenevolentAI, working on technology that uses machine learning and AI for drug discovery. I am passionate about technology, biology and the intersection between the two.
 
 I hold an integrated master's degree in biomedical engineering from Imperial College London, specialising in computational bioengineering. My studies focused on using computational techniques such as machine learning, data science, computer vision and signal processing to solve biomedical and healthcare problems.

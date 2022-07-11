@@ -35,7 +35,7 @@ hero_media = "chan-photo.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "#about"
-  label = "Contact me"
+  label = "Connect with me"
   
 #[btn_alt]
 #  url = "#about"
@@ -43,6 +43,6 @@ hero_media = "chan-photo.jpg"
 
 +++
 # **Hello!👋** #
-## My name is **Chan** and I am a **software engineer** at **BenevolentAI**
+## My name is **Chan** and I am a **Software Engineer** at **BenevolentAI**
 
 I help build tools and technologies used by scientists to explore and understand the complexities of biology, derive novel insights and discover new and better treatments
