@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   """
 
   [[experience]]
-  title = "Data Science Consultant"
+  title = "Data Science Consultant (Part-time)"
   company = "Heteronomics"
   company_url = "https://www.heteronomics.com/"
   location = "Malvern, UK"
