@@ -4,7 +4,7 @@ summary: Using deep learning to produce an image that combines the content of on
 tags:
 - Deep Learning
 - Computer Vision
-- Web development
+- Web Development
 date: "2022-07-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -33,6 +33,10 @@ subtitle = "Some of the projects I have worked on"
     name = "Computer Vision"
     tag = "Computer Vision"
 
+  [[content.filter_button]]
+    name = "Web Development"
+    tag = "Web Development"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
