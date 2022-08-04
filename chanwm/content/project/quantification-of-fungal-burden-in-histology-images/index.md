@@ -9,11 +9,11 @@ tags:
 date: "2022-07-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 
+# external_link: 
 
-image:
-  caption: Histology image of lung tissues infected with Aspergillus fumigatus
-  focal_point: Smart
+# image:
+#   caption: Histology image of lung tissues infected with Aspergillus fumigatus
+#   focal_point: Smart
 ---
 
 This project was completed, awarded First Class Honours and submitted as part of the requirements for my master of engineering degree at Imperial College London. I worked as part of the [Biological Control Systems Lab](https://rtanaka.bg-research.cc.ic.ac.uk/) and was supervised by [Dr. Reiko Tanaka](https://www.imperial.ac.uk/people/r.tanaka) and [Dr. Rahman Attar](https://scholar.google.com/citations?hl=en&user=-R7aRpQAAAAJ&view_op=list_works&sortby=pubdate).
