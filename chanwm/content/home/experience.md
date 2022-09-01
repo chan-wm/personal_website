@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2022-09-05"
   date_end = ""
   description = """
-  A software engineer
+  Precision Medicine
   """
 
 [[experience]]
@@ -36,9 +36,7 @@ date_format = "Jan 2006"
   date_start = "2021-10-01"
   date_end = "2022-06-01"
   description = """
-  * Built a pipeline for training and evaluating various semantic segmentation models such as FCN, U-Net, SegNet and PSPNet
-  * Applied transfer learning using pre-trained models such as VGG16 and ResNet50
-  * Applied data augmentation techniques to improve model's performance and robustness
+  Semantic segmentation of fungal histology images
   """
 
 [[experience]]
@@ -49,12 +47,7 @@ date_format = "Jan 2006"
   date_start = "2021-07-01"
   date_end = "2021-09-30"
   description = """
-
-  * Built an internal Django web application for the management of whitelists
-  * Integrated with RDS MySQL database, Okta for authentication and Squid for seamless proxy whitelist update
-  * Built a CI/CD pipeline for containerising, packaging and deploying the application in EKS
-  * Provisioned AWS resources with Terraform and monitored the application with Prometheus
-  * Reduced time on whitelist update workflow by 8 times while providing improved auditing and validation
+  Whitelist management system
   """
 
 [[experience]]
@@ -65,13 +58,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = "2021-06-30"
   description = """
-
-  * Automated deployments of Smallworld GeoSpatial Server (GSS) products using Bash in bare-metal, EKS and AKS environments
-  * Containerised and deployed back-end servers into Kubernetes cluster for high availability and scalability
-  * Set up Jenkins CI/CD pipelines to automatically build, deploy and test Docker images
-  * Created Amazon AppStream 2.0 images, stacks and fleets for Smallworld applications
-  * Provisioned resources using Terraform
-  * Automated GUI testing using Katalon Studio and Sikuli
+  DevOps team for GE Smallworld products
   """
 
   [[experience]]
@@ -82,9 +69,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = "2021-08-30"
   description = """
-
-  * Cleaned and analysed more than 10 years' worth of economics time-series datasets using numpy and panda
-  * Built time-series models to forecast economic indicators of interest
+  Economics time-series data
   """
   
 +++
