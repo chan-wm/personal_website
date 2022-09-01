@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = "2021-06-30"
   description = """
-  DevOps team for GE Smallworld products
+  DevOps for GE Smallworld products
   """
 
   [[experience]]
